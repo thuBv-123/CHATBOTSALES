@@ -1,0 +1,14 @@
+﻿# My Project
+Local URL: http://localhost:8501
+Network URL: http://192.168.0.102:8501
+
+Vận hành trên vs.code
+Link tham khảo: 
+https://www.quora.com/What-is-a-chatbot-How-can-we-create-one-using-Google-Colab
+https://www.youtube.com/watch?v=nSeQl6Ehfk0
+Tham khảo và kiểm tra: ChatGPT,Gemini
+Cách huấn luấn luyện mô hình: 
+- Chạy các biến đầu vào :( Input(),While,..), huấn luyện CNN , dịch văn bản trên google colab
+- Chuyển sang vs.code sử dụng Streamlit
+- Thêm giao diện mới: ảnh nền , avatar 
+Kết quả gắn ở main 
