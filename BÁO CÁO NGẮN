@@ -11,4 +11,4 @@ Cách huấn luấn luyện mô hình:
 - Chạy các biến đầu vào :( Input(),While,..), huấn luyện CNN , dịch văn bản trên google colab
 - Chuyển sang vs.code sử dụng Streamlit
 - Thêm giao diện mới: ảnh nền , avatar 
-Kết quả gắn ở main 
+
